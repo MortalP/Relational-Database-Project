@@ -1,2 +1,2 @@
 # Relational-Database-Project
-School group project
+This was a school group project where we did a database for a ticket reservation system.
